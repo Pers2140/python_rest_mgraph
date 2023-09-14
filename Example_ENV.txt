@@ -1,0 +1,7 @@
+# Example of os variables 
+export SERVICE_EMAIL = "workflowxxxxx@xxxx.onmicrosoft.com"
+export SERVICE_PASSWORD = "xxxxxxxx"
+export CLIENT_ID = "xxxxxxx-xxxx-xxxxx-xxxxx-xxxxxxxxx" 
+export CLIENT_SECRET = "xxxx-xxxx~xxxxxxxx.xxxxxx"
+export TENANT_ID = "xxxxxx-xxxxxx-xxxxx-xxxxxxxx"
+export SITE_ID = "xxxxxx-xxxxxx-xxxxxxxxxx-xxxxxx" 
